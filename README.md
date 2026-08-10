@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Kabilan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
@@ -9,9 +11,9 @@
 <img src="https://img.shields.io/badge/📍_Namakkal,_Tamil_Nadu-1e1e2e?style=for-the-badge"/>
 <a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge"/></a>
 <a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/kabilanMurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kabilanmurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=kabilkforge06&style=flat-square&color=764ABA&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kabil0x&style=flat-square&color=764ABA&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -133,10 +135,10 @@ Jun 2025 ─────► Generative AI & Agentic AI Trainee @ DigiDARA Techno
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabilkforge06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilkforge06&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kabil0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabil0x&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-<img src="https://streak-stats.demolab.com?user=kabilkforge06&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kabil0x&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
@@ -149,9 +151,9 @@ Jun 2025 ─────► Generative AI & Agentic AI Trainee @ DigiDARA Techno
 I'm always up for talking AI agents, RAG pipelines, or just trading hackathon war stories.
 
 <a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kabilanMurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kabilanmurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/kabilkforge06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Kabil0x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
 
