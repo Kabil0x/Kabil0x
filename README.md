@@ -144,9 +144,6 @@ Jun 2025 ─────► Generative AI & Agentic AI Trainee @ DigiDARA Techno
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kabil0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabil0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="35%"/>
-
 <img src="https://streak-stats.demolab.com?user=Kabil0x&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
