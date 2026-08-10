@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Kabilan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,35:1B263B,100:0D1B2A&height=210&section=header&text=Kabilan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=764ABA&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+actually+ship;LangChain+%2B+LangGraph+%2B+RAG+%3D+my+playground;IT+Undergrad+%40+Kongunadu+College+of+Engineering;Turning+resumes+into+career+roadmaps+with+LLMs" alt="Typing SVG" />
 
@@ -35,13 +35,22 @@ Not just a bullet-point "about me" — here's the real picture:
 
 <div align="center">
 
-**Languages & Web**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=java,py" />
 
-**Data & Tools**
+**Web Technologies**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 **Agentic AI Stack**
 
@@ -135,8 +144,8 @@ Jun 2025 ─────► Generative AI & Agentic AI Trainee @ DigiDARA Techno
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kabil0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabil0x&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kabil0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabil0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="35%"/>
 
 <img src="https://streak-stats.demolab.com?user=Kabil0x&theme=tokyonight&hide_border=true" alt="Streak"/>
 
@@ -155,6 +164,6 @@ I'm always up for talking AI agents, RAG pipelines, or just trading hackathon wa
 <a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Kabil0x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,65:1B263B,100:C0C0C0&height=100&section=footer" width="100%"/>
 
 </div>
