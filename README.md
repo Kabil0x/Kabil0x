@@ -1,130 +1,158 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Kabilan M</strong>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Kabilan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<h3>AI Full Stack Developer | Agentic AI • MERN • Python</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=764ABA&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+actually+ship;LangChain+%2B+LangGraph+%2B+RAG+%3D+my+playground;IT+Undergrad+%40+Kongunadu+College+of+Engineering;Turning+resumes+into+career+roadmaps+with+LLMs" alt="Typing SVG" />
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<br/>
 
-  <p>
-    I'm an IT student passionate about building intelligent AI-powered web applications and Agentic AI systems.  
-    I enjoy combining full-stack development with Generative AI to create smart platforms that solve real-world problems.
-  </p>
+<img src="https://img.shields.io/badge/📍_Namakkal,_Tamil_Nadu-1e1e2e?style=for-the-badge"/>
+<a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge"/></a>
+<a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/kabilanMurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:kabilanmurali06@email.com"><img src="https://img.shields.io/badge/📧_kabilanmurali06@email.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Web_Projects)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Building_AI_Agents-1e1e2e?style=for-the-badge" />
-  </p>
+<img src="https://komarev.com/ghpvc/?username=kabilkforge06&style=flat-square&color=764ABA&label=Profile+Views" alt="Profile Views"/>
 
-<h3>🌐 Socials</h3>
-
-<p align="left">
-  <a href="https://github.com/kabilkforge06">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/kabilanmurali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=kabilkforge06&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-<br clear="all" />
+<br/>
 
----
+## 🔭 What I'm Actually Doing Right Now
 
-## 🧠 About Me
+Not just a bullet-point "about me" — here's the real picture:
 
-- 🎓 B.Tech Information Technology Student  
-- 🤖 Generative AI & Agentic AI Enthusiast  
-- 🌐 AI Full Stack Developer (React • NodeJS • Python • MongoDB)  
-- 🚀 Passionate about building intelligent agents and smart platforms
+- 🧠 Fresh off a **Generative AI & Agentic AI internship**, where I went from LLM theory to shipping an actual AI agent
+- 🤖 Deep in the **LangChain / LangGraph / RAG** rabbit hole — vector databases are basically my second home now
+- 🏆 On a **hackathon streak** — five events in the last year, from state-level to IIT Hyderabad's national finale
+- 🎓 Currently a B.Tech IT student at **Kongunadu College of Engineering and Technology** (2023–2027)
+- 🛠️ Full-stack when I need to be, AI-first when I get to choose
 
----
+<br/>
 
-## 🛠️ Skills
-<p align="center">
+## ⚙️ The Toolkit
+
+<div align="center">
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,nodejs,express" />
+
+**Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,tailwind" />
+
+**Agentic AI Stack**
+
+<img src="https://img.shields.io/badge/LangChain-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-1e1e2e?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## 🎯 Flagship Build — CareerMate AI
+
+> **Smart Career Development Hub**, born out of my Agentic AI internship at DigiDARA Technologies
+
+An AI-powered platform that fuses career planning, alumni networking, and mentorship into one ecosystem:
+
+- 📄 **LLM-based resume analysis** that actually reads between the lines
+- 🤝 **Intelligent alumni matching** — connecting students with the right mentors, not just any mentor
+- 🗺️ **Personalized career roadmaps** built around each student's real skill gaps
+- ⏱️ **Real-time mentorship & skill-gap insights** to make career decisions less of a guessing game
+
+This is the project I'm proudest of — it's where "agentic AI" stopped being a buzzword and became something people can actually use.
+
+<br/>
+
+## 🧪 Other Things I've Built
+
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-<br/><br/>
+**🌿 Ayurvedic Leaf Grading System**
+*MSME 3.0 — Government of India–funded*
+
+Python ML models for image-based leaf classification, paired with a Raspberry Pi for real-time processing. Hardware met machine learning on this one.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
-</td>
-</tr>
+**🏙️ Fixitizen**
+*Smart Civic Grievance Management*
 
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br/><br/>
-</td>
+OTP-based complaint filing, GPS tagging, a multilingual chatbot, and role-based dashboards — built to make civic reporting less painful.
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman" />
 </td>
 </tr>
 </table>
-</p>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 🏁 The Hackathon Trail
 
-### 🤖 CareerMate AI – Smart Career Development Hub
-AI-powered platform for career planning, alumni networking, and mentorship using LLM-based resume analysis, intelligent alumni matching, and personalized career roadmaps.
+| When | Event | Where |
+|---|---|---|
+| Feb 2025 | **SMARTATHON** — National Level Hackathon *(sponsored by L&T, IEEE IAS, Anna University)* | St. Joseph's College of Engineering, Chennai |
+| Dec 2025 | **India International Science Festival (IISF)** — S&T Hackathon | Panchkula, Haryana |
+| Apr 2026 | **AMTZ MedTech Hackathon** | AMTZ Campus, Visakhapatnam |
+| Apr 2026 | **ANRF AISE — National Climate AI Hackathon** *(Grand Finale)* | IIT Hyderabad |
+| Apr 2026 | **AMD Slingshot** — Regional Demo Days *(live showcase to AMD engineers)* | Chennai |
 
-### 🏙️ Fixitizen – Smart Civic Grievance Management System
-AI-assisted civic platform with OTP-based complaint filing, GPS tagging, multilingual chatbot, and role-based dashboards to improve transparency and governance.
+<br/>
 
----
+## 🌱 How I Got Here
 
-## 💼 Experience
+```
+May 2025 ─────► Full Stack Web Dev Intern @ ATS Accent Techno Soft
+                 Hands-on with HTML, CSS, JS + backend integration
 
-**🧠 Generative AI & Agentic AI Intern – DigiDARA Technologies**  
-Worked on ML, LLMs, RAG pipelines, Vector DBs, LangChain & LangGraph while building AI agent systems.
+Jun 2025 ─────► Generative AI & Agentic AI Trainee @ DigiDARA Technologies
+                 ML → DL → LLMs → RAG → Vector DBs → LangChain/LangGraph
+                 Shipped: CareerMate AI agent
+```
 
-**🌐 Full Stack Web Development Intern – ATS Accent Techno Soft**  
-Developed web components using HTML, CSS, JavaScript and backend integration concepts.
+<br/>
 
----
+## 📜 Certifications
 
-## 🏆 Hackathons
+- **MongoDB Basics for Students** — MongoDB University
+- **Front End Web Developer** — Infosys Springboard
+- **Generative AI and Agentic AI** — DigiDARA Technologies
+- **Introduction to Internet of Things** — NPTEL
+- **LeetCode Java Problem Solving** — Yellowmatics.ai
+- **Value Added Course in Cyber Security** — Hackup Technology
 
-- 🧪 India International Science Festival (IISF) 2025 – S&T Hackathon  
-- ⚡ SMARTATHON – National Level Hackathon (IEEE IAS, L&T, Anna University)  
-- 🌾 Agri Tech 2.0 – 24Hr Hackathon  
-- 🤖 Shaastra Techathon 2024 – IIT Madras
+<br/>
 
----
-
-## 📊 GitHub Stats
+## 📊 The Numbers
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kabilkforge06&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kabilkforge06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilkforge06&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+
+<img src="https://streak-stats.demolab.com?user=kabilkforge06&theme=tokyonight&hide_border=true" alt="Streak"/>
+
 </div>
 
----
+<br/>
 
-## ❤️ Support Me
+## 📬 Let's Build Something
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐_Follow_for_AI_Projects-1e1e2e?style=for-the-badge" />
-</p>
+<div align="center">
+
+I'm always up for talking AI agents, RAG pipelines, or just trading hackathon war stories.
+
+<a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kabilanMurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/kabilkforge06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+
+</div>
