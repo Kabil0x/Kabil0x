@@ -11,7 +11,7 @@
 <br/>
 
 <a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://kabilanwebsite.web.app"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kabilan-murali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Kabil0x&style=for-the-badge&color=764ABA&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -107,17 +107,39 @@ Python ML models for **image-based leaf classification**, paired with a **Raspbe
 
 <br/>
 
-## 🏁 Hackathon Trail
+## 🏁 Hackathon Arena: Problems I've Taken On
+
+Five events, five different domains. I pick the problem first, then the stack.
 
 ```mermaid
-timeline
-    title State to National
-    Feb 2025 : SMARTATHON : National level hackathon : Sponsored by L&T, IEEE IAS, Anna University
-    Dec 2025 : IISF 2025 : S&T Hackathon
-    Apr 2026 : AMTZ MedTech Hackathon
-           : ANRF AISE Climate AI : Grand Finale
-           : AMD Slingshot : Regional Demo Days
+mindmap
+  root((5 Hackathons))
+    🏥 Healthcare
+      AMTZ MedTech Hackathon
+    🌍 Climate
+      ANRF AISE Climate AI
+      Grand Finale
+    🔬 Science and Tech
+      IISF 2025 S&T Hackathon
+    🏭 Smart Industry
+      SMARTATHON
+      National Level
+    ⚡ AI Innovation
+      AMD Slingshot
+      Live Demo Days
 ```
+
+<div align="center">
+
+| Domain | Event | Stage | When |
+|:---:|:---|:---:|:---:|
+| 🌍 **Climate AI** | ANRF AISE National Climate AI Hackathon | 🏆 **Grand Finale** | Apr 2026 |
+| 🏥 **Healthcare / MedTech** | AMTZ MedTech Hackathon | Participant | Apr 2026 |
+| ⚡ **AI Innovation** | AMD Slingshot, Regional Demo Days | 🎤 **Live showcase** | Apr 2026 |
+| 🔬 **Science & Technology** | India International Science Festival (IISF) 2025, S&T Hackathon | National festival | Dec 2025 |
+| 🏭 **Smart Industry** | SMARTATHON, sponsored by L&T, IEEE IAS & Anna University | 🇮🇳 **National level** | Feb 2025 |
+
+</div>
 
 <br/>
 
@@ -186,7 +208,7 @@ flowchart LR
 
 <a href="mailto:kabilanmurali06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kabilan-murali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kabilanportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://kabilanwebsite.web.app"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/Kabil0x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,65:1B263B,100:C0C0C0&height=110&section=footer&animation=twinkling" width="100%"/>
